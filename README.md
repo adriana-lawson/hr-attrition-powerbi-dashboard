@@ -7,7 +7,8 @@ For this project, I built an interactive Power BI dashboard analyzing employee a
 1. What is the overall attrition rate, and how does average income compare across the company?
 2. Which departments and job roles have the highest attrition?
 3. Does working overtime relate to whether an employee leaves?
-4. Can a user filter and explore these patterns interactively by department and gender?
+
+I also wanted the final dashboard to be interactive, letting a user filter these patterns by department and gender rather than just viewing a static report.
 
 ## What I Found
 
